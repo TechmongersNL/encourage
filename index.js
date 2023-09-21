@@ -1,0 +1,1 @@
+console.log("Congratulations on taking the bold step to learn coding and embark on this exciting career change journey! Remember, every line of code you write is a step closer to achieving your goals. Embrace the challenges, stay persistent, and you'll continue building a bright future in the tech industry");
